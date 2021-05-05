@@ -1,0 +1,54 @@
+{
+  "private": true,
+  "name": "",
+  "version": "0.0.0",
+  "description": "Create an HTTP server for serving website files.",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "The Homeward Bound Authors",
+    "url": "https://github.com/TODO/TODO/graphs/contributors"
+  },
+  "contributors": [
+    {
+      "name": "The Homeward Bound Authors",
+      "url": "https://github.com/TODO/TODO/graphs/contributors"
+    }
+  ],
+  "bin": {
+    "homeward-bound-server": "./bin/cli"
+  },
+  "main": "./lib",
+  "directories": {
+    "bin": "./bin",
+    "doc": "./docs",
+    "example": "./examples",
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "scripts": {},
+  "homepage": "https://github.com/TODO/TODO",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TODO/TODO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TODO/TODO/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {},
+  "os": [
+    "aix",
+    "darwin",
+    "freebsd",
+    "linux",
+    "macos",
+    "openbsd",
+    "sunos",
+    "win32",
+    "windows"
+  ],
+  "keywords": [
+    "server"
+  ]
+}
